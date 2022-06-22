@@ -37,7 +37,9 @@ h1.name{
   font-weight: normal;
   font-size: 20px;
   padding-left: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
+  color: #0f0;
+  font-weight: bold;
 }
 
 /* 経歴部分 */
